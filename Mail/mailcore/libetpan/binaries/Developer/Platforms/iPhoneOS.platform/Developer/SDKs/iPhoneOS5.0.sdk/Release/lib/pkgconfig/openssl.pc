@@ -1,0 +1,11 @@
+prefix=/Users/shwet/Desktop/git/Remail/remail-iphone/build-crypto-deps/binaries//Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Release
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 0.9.8k
+Requires: 
+Libs: -L${libdir} -lssl -lcrypto 
+Cflags: -I${includedir} 

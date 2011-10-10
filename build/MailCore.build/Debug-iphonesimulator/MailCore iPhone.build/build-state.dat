@@ -1,0 +1,1871 @@
+TMailCore iPhone
+v4
+r1
+cCheck dependencies
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/JRLog.o" /Sapna/Mail/mailcore/Source/JRLog.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPConnection.o" /Sapna/Mail/mailcore/Source/CTSMTPConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTP.o" /Sapna/Mail/mailcore/Source/CTSMTP.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTESMTP.o" /Sapna/Mail/mailcore/Source/CTESMTP.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIMEFactory.o" /Sapna/Mail/mailcore/Source/CTMIMEFactory.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MessagePart.o" /Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MultiPart.o" /Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_TextPart.o" /Sapna/Mail/mailcore/Source/CTMIME_TextPart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_SinglePart.o" /Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME.o" /Sapna/Mail/mailcore/Source/CTMIME.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_Enumerator.o" /Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAttachment.o" /Sapna/Mail/mailcore/Source/CTCoreAttachment.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAccount.o" /Sapna/Mail/mailcore/Source/CTCoreAccount.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAddress.o" /Sapna/Mail/mailcore/Source/CTCoreAddress.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreFolder.o" /Sapna/Mail/mailcore/Source/CTCoreFolder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreMessage.o" /Sapna/Mail/mailcore/Source/CTCoreMessage.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareMessage.o" /Sapna/Mail/mailcore/Source/CTBareMessage.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareAttachment.o" /Sapna/Mail/mailcore/Source/CTBareAttachment.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPAsyncConnection.o" /Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/MailCoreUtilities.o" /Sapna/Mail/mailcore/Source/MailCoreUtilities.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLibtool /Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/libmailcore.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E683FD20000000000000132
+t1315454930
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E571BA20000000000001534
+t1314331554
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/arpa/inet.h
+c000000004E5713E40000000000001533
+t1314329572
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/inttypes.h
+c000000004E57142B0000000000002674
+t1314329643
+s9844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/netinet/in.h
+c000000004E571C470000000000006BC9
+t1314331719
+s27593
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/stdio.h
+c000000004E57142C0000000000004763
+t1314329644
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/sys/param.h
+c000000004E571C4B00000000000027BE
+t1314331723
+s10174
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/sys/socket.h
+c000000004E571C4C0000000000005B28
+t1314331724
+s23336
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/sys/time.h
+c000000004E571C4D0000000000001E64
+t1314331725
+s7780
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/sys/types.h
+c000000004E571C4D0000000000002905
+t1314331725
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/time.h
+c000000004E57142C000000000000178E
+t1314329644
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/include/unistd.h
+c000000004E57142C00000000000066D1
+t1314329644
+s26321
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+c000000004E2F28B80000000000000D03
+t1311713464
+s3331
+i"syslimits.h"
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+c000000004E2F28290000000000000155
+t1311713321
+s341
+
+N/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/libmailcore.a
+t1318224909
+s4404080
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareAttachment.o
+t1318224908
+s21024
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareMessage.o
+t1318224908
+s9308
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAccount.o
+t1318224908
+s27592
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAddress.o
+t1318224908
+s14124
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAttachment.o
+t1318224908
+s11280
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreFolder.o
+t1318224908
+s59340
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreMessage.o
+t1318224908
+s62228
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTESMTP.o
+t1318224907
+s14408
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME.o
+t1318224908
+s19192
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIMEFactory.o
+t1318224907
+s15108
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_Enumerator.o
+t1318224908
+s8564
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MessagePart.o
+t1318224907
+s18052
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MultiPart.o
+t1318224907
+s17964
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_SinglePart.o
+t1318224907
+s28920
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_TextPart.o
+t1318224908
+s19332
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTP.o
+t1318224907
+s14220
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPAsyncConnection.o
+t1318224908
+s37620
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPConnection.o
+t1318224907
+s15936
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/JRLog.o
+t1318224907
+s19540
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/MailCoreUtilities.o
+t1318224908
+s8476
+
+N/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/mailcore.LinkFileList
+c000000004E92840B0000000000000A0A
+t1318224907
+s2570
+
+N/Sapna/Mail/mailcore/Source/CTBareAttachment.h
+c000000004E8EC56C00000000000007E1
+t1317979500
+s2017
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/CTBareAttachment.m
+c000000004E8EC56C0000000000000C1D
+t1317979500
+s3101
+i"CTBareAttachment.h"
+i"MailCoreTypes.h"
+i"CTMIME_SinglePart.h"
+i"CTCoreAttachment.h"
+
+N/Sapna/Mail/mailcore/Source/CTBareMessage.h
+c000000004E8EC56C000000000000076D
+t1317979500
+s1901
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/CTBareMessage.m
+c000000004E8EC56C0000000000000831
+t1317979500
+s2097
+i"CTBareMessage.h"
+
+N/Sapna/Mail/mailcore/Source/CTCoreAccount.h
+c000000004E8EC56C0000000000000F3E
+t1317979500
+s3902
+i<Foundation/Foundation.h>
+i<libetpan/libetpan.h>
+
+N/Sapna/Mail/mailcore/Source/CTCoreAccount.m
+c000000004E8EC56C00000000000019D0
+t1317979500
+s6608
+i"CTCoreAccount.h"
+i"CTCoreFolder.h"
+i"MailCoreTypes.h"
+
+N/Sapna/Mail/mailcore/Source/CTCoreAddress.h
+c000000004E8EC56C0000000000000B49
+t1317979500
+s2889
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/CTCoreAddress.m
+c000000004E8EC56C0000000000000D95
+t1317979500
+s3477
+i"CTCoreAddress.h"
+
+N/Sapna/Mail/mailcore/Source/CTCoreAttachment.h
+c000000004E8EC56C000000000000078F
+t1317979500
+s1935
+i<Foundation/Foundation.h>
+i"CTBareAttachment.h"
+
+N/Sapna/Mail/mailcore/Source/CTCoreAttachment.m
+c000000004E8EC56C0000000000000B56
+t1317979500
+s2902
+i"CTCoreAttachment.h"
+i"MailCoreTypes.h"
+
+N/Sapna/Mail/mailcore/Source/CTCoreFolder.h
+c000000004E8EC56C0000000000001A5E
+t1317979500
+s6750
+i<Foundation/Foundation.h>
+i<libetpan/libetpan.h>
+
+N/Sapna/Mail/mailcore/Source/CTCoreFolder.m
+c000000004E8EC56C00000000000049AF
+t1317979500
+s18863
+i"CTCoreFolder.h"
+i<libetpan/libetpan.h>
+i"CTCoreMessage.h"
+i"CTCoreAccount.h"
+i"MailCoreTypes.h"
+i"CTBareMessage.h"
+
+N/Sapna/Mail/mailcore/Source/CTCoreMessage.h
+c000000004E8EC56C0000000000001D70
+t1317979500
+s7536
+i<Foundation/Foundation.h>
+i<libetpan/libetpan.h>
+
+N/Sapna/Mail/mailcore/Source/CTCoreMessage.m
+c000000004E8EDC580000000000004B78
+t1317985368
+s19320
+i"CTCoreMessage.h"
+i"CTCoreFolder.h"
+i"MailCoreTypes.h"
+i"CTCoreAddress.h"
+i"CTMIMEFactory.h"
+i"CTMIME_MessagePart.h"
+i"CTMIME_TextPart.h"
+i"CTMIME_MultiPart.h"
+i"CTMIME_SinglePart.h"
+i"CTBareAttachment.h"
+
+N/Sapna/Mail/mailcore/Source/CTESMTP.h
+c000000004E8EC56C00000000000007FB
+t1317979500
+s2043
+i<Foundation/Foundation.h>
+i"CTSMTP.h"
+
+N/Sapna/Mail/mailcore/Source/CTESMTP.m
+c000000004E8EC56C0000000000001722
+t1317979500
+s5922
+i"CTESMTP.h"
+i"CTCoreAddress.h"
+i"CTCoreMessage.h"
+i"MailCoreTypes.h"
+i<sys/types.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+
+N/Sapna/Mail/mailcore/Source/CTMIME.h
+c000000004E8EC56C00000000000007CF
+t1317979500
+s1999
+i<Foundation/Foundation.h>
+i<libetpan/libetpan.h>
+
+N/Sapna/Mail/mailcore/Source/CTMIME.m
+c000000004E8EC56C0000000000001033
+t1317979500
+s4147
+i"CTMIME.h"
+i"CTMIME_Enumerator.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIMEFactory.h
+c000000004E8EC56C000000000000078B
+t1317979500
+s1931
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/CTMIMEFactory.m
+c000000004E8EC56C0000000000000CA5
+t1317979500
+s3237
+i"CTMIMEFactory.h"
+i"MailCoreTypes.h"
+i<libetpan/libetpan.h>
+i"CTMIME_SinglePart.h"
+i"CTMIME_MessagePart.h"
+i"CTMIME_MultiPart.h"
+i"CTMIME_TextPart.h"
+i"CTMIME.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_Enumerator.h
+c000000004E8EC56C000000000000071F
+t1317979500
+s1823
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m
+c000000004E8EC56C0000000000000A51
+t1317979500
+s2641
+i"CTMIME_Enumerator.h"
+i"CTMIME.h"
+i"CTMIME_MultiPart.h"
+i"CTMIME_MessagePart.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_MessagePart.h
+c000000004E8EC56C00000000000007A3
+t1317979500
+s1955
+i<Foundation/Foundation.h>
+i"CTMIME.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m
+c000000004E8EC56C0000000000000B8B
+t1317979500
+s2955
+i"CTMIME_MessagePart.h"
+i<libetpan/libetpan.h>
+i"MailCoreTypes.h"
+i"CTMIMEFactory.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_MultiPart.h
+c000000004E8EC56C00000000000006E6
+t1317979500
+s1766
+i<Foundation/Foundation.h>
+i"CTMIME.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m
+c000000004E8EC56C0000000000000C03
+t1317979500
+s3075
+i"CTMIME_MultiPart.h"
+i"CTMIME_MessagePart.h"
+i<libetpan/libetpan.h>
+i"MailCoreTypes.h"
+i"CTMIMEFactory.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.h
+c000000004E8EC56C0000000000000818
+t1317979500
+s2072
+i<Foundation/Foundation.h>
+i"CTMIME.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m
+c000000004E8EC56C00000000000015EC
+t1317979500
+s5612
+i"CTMIME_SinglePart.h"
+i<libetpan/libetpan.h>
+i"MailCoreTypes.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_TextPart.h
+c000000004E8EC56C000000000000071C
+t1317979500
+s1820
+i<Foundation/Foundation.h>
+i"CTMIME_SinglePart.h"
+
+N/Sapna/Mail/mailcore/Source/CTMIME_TextPart.m
+c000000004E8EC56C0000000000000FDF
+t1317979500
+s4063
+i"CTMIME_TextPart.h"
+i<libetpan/libetpan.h>
+i"MailCoreTypes.h"
+
+N/Sapna/Mail/mailcore/Source/CTSMTP.h
+c000000004E8EC56C0000000000000964
+t1317979500
+s2404
+i<Foundation/Foundation.h>
+i<libetpan/libetpan.h>
+
+N/Sapna/Mail/mailcore/Source/CTSMTP.m
+c000000004E8EC56C0000000000000F0D
+t1317979500
+s3853
+i"CTSMTP.h"
+i"CTCoreAddress.h"
+i"CTCoreMessage.h"
+i"MailCoreTypes.h"
+
+N/Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.h
+c000000004E8EDC640000000000000534
+t1317985380
+s1332
+i<libetpan/libetpan.h>
+i"MailCoreTypes.h"
+
+N/Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m
+c000000004E8EC56C0000000000001BC6
+t1317979500
+s7110
+i<libetpan/libetpan.h>
+i"CTCoreAddress.h"
+i"CTCoreMessage.h"
+i"CTESMTP.h"
+i"CTSMTP.h"
+i"CTSMTPAsyncConnection.h"
+
+N/Sapna/Mail/mailcore/Source/CTSMTPConnection.h
+c000000004E8EC56C0000000000000B07
+t1317979500
+s2823
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/CTSMTPConnection.m
+c000000004E8EC56C0000000000000B82
+t1317979500
+s2946
+i"CTSMTPConnection.h"
+i<libetpan/libetpan.h>
+i"CTCoreAddress.h"
+i"CTCoreMessage.h"
+i"MailCoreTypes.h"
+i"CTSMTP.h"
+i"CTESMTP.h"
+
+N/Sapna/Mail/mailcore/Source/JRLog.h
+c000000004E8EC56C00000000000009E3
+t1317979500
+s2531
+i<Foundation/Foundation.h>
+
+N/Sapna/Mail/mailcore/Source/JRLog.m
+c000000004E8EC56C0000000000001EEB
+t1317979500
+s7915
+i"JRLog.h"
+i<unistd.h>
+
+N/Sapna/Mail/mailcore/Source/MailCoreTypes.h
+c000000004E8EC56C000000000000114B
+t1317979500
+s4427
+
+N/Sapna/Mail/mailcore/Source/MailCoreUtilities.h
+c000000004E8EC56C0000000000000835
+t1317979500
+s2101
+i<Foundation/Foundation.h>
+i<libetpan/libetpan.h>
+
+N/Sapna/Mail/mailcore/Source/MailCoreUtilities.m
+c000000004E8EC56C0000000000000BFB
+t1317979500
+s3067
+i"MailCoreUtilities.h"
+i"JRLog.h"
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/build/Debug-iphonesimulator/libetpan-iphone.a
+c000000004E92840900000000003C5E30
+t1318224905
+s3956272
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/acl.h
+c000000004E8EC56C0000000000001311
+t1317979500
+s4881
+i<libetpan/mailimap_extension.h>
+i<libetpan/acl_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/acl_types.h
+c000000004E8EC56C000000000000148A
+t1317979500
+s5258
+i<libetpan/libetpan-config.h>
+i<libetpan/mailstream.h>
+i<libetpan/clist.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/annotatemore.h
+c000000004E8EC56C0000000000000E31
+t1317979500
+s3633
+i<libetpan/mailimap_extension.h>
+i<libetpan/annotatemore_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/annotatemore_types.h
+c000000004E8EC56C000000000000237F
+t1317979500
+s9087
+i<libetpan/libetpan-config.h>
+i<libetpan/mailstream.h>
+i<libetpan/clist.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/carray.h
+c000000004E8EC56C00000000000010A2
+t1317979500
+s4258
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/charconv.h
+c000000004E8EC56C0000000000000B02
+t1317979500
+s2818
+i<sys/types.h>
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/chash.h
+c000000004E8EC56C000000000000157E
+t1317979500
+s5502
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/clist.h
+c000000004E8EC56C0000000000001310
+t1317979500
+s4880
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/data_message_driver.h
+c000000004E8EC56C00000000000007DD
+t1317979500
+s2013
+i<libetpan/mailmessage.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/dbdriver.h
+c000000004E8EC56C000000000000077C
+t1317979500
+s1916
+i<libetpan/dbdriver_message.h>
+i<libetpan/dbdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/dbdriver_message.h
+c000000004E8EC56C000000000000076D
+t1317979500
+s1901
+i<libetpan/dbdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/dbdriver_types.h
+c000000004E8EC56C00000000000008D6
+t1317979500
+s2262
+i<libetpan/libetpan-config.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/generic_cache_types.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/dbstorage.h
+c000000004E8EC56C0000000000000848
+t1317979500
+s2120
+i<libetpan/dbdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/feeddriver.h
+c000000004E8EC56C000000000000075F
+t1317979500
+s1887
+i<libetpan/feeddriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/feeddriver_message.h
+c000000004E8EC56C0000000000000777
+t1317979500
+s1911
+i<libetpan/feeddriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/feeddriver_types.h
+c000000004E8EC56C00000000000008A4
+t1317979500
+s2212
+i<libetpan/libetpan-config.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/mailstorage_types.h>
+i<libetpan/newsfeed.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/feedstorage.h
+c000000004E8EC56C000000000000096F
+t1317979500
+s2415
+i<libetpan/feeddriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/generic_cache_types.h
+c000000004E8EC56C000000000000079E
+t1317979500
+s1950
+i<libetpan/carray.h>
+i<libetpan/chash.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/hotmailstorage.h
+c000000004E8EC56C0000000000000814
+t1317979500
+s2068
+i"mailstorage_types.h"
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/idle.h
+c000000004E8EC56C0000000000000239
+t1317979500
+s569
+i"mailimap_types.h"
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/imapdriver.h
+c000000004E8EC56C0000000000000760
+t1317979500
+s1888
+i<libetpan/imapdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/imapdriver_cached.h
+c000000004E8EC56C000000000000077C
+t1317979500
+s1916
+i<libetpan/imapdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/imapdriver_cached_message.h
+c000000004E8EC56C0000000000000793
+t1317979500
+s1939
+i<libetpan/imapdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/imapdriver_message.h
+c000000004E8EC56C0000000000000777
+t1317979500
+s1911
+i<libetpan/imapdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/imapdriver_types.h
+c000000004E8EC56C000000000000131C
+t1317979500
+s4892
+i<libetpan/libetpan-config.h>
+i<libetpan/mailimap.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/generic_cache_types.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/imapstorage.h
+c000000004E8EC56C00000000000010E4
+t1317979500
+s4324
+i<libetpan/imapdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/libetpan-config.h
+c000000004E8EC56C00000000000001CF
+t1317979500
+s463
+i<limits.h>
+i<sys/param.h>
+i<inttypes.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/libetpan.h
+c000000004E8EC56C0000000000001022
+t1317979500
+s4130
+i<libetpan/libetpan_version.h>
+i<libetpan/maildriver.h>
+i<libetpan/mailmessage.h>
+i<libetpan/mailfolder.h>
+i<libetpan/mailstorage.h>
+i<libetpan/mailthread.h>
+i<libetpan/mailsmtp.h>
+i<libetpan/charconv.h>
+i<libetpan/mailsem.h>
+i<libetpan/carray.h>
+i<libetpan/chash.h>
+i<libetpan/maillock.h>
+i<libetpan/mboxdriver.h>
+i<libetpan/mboxdriver_message.h>
+i<libetpan/mboxdriver_cached.h>
+i<libetpan/mboxdriver_cached_message.h>
+i<libetpan/mboxstorage.h>
+i<libetpan/mhdriver.h>
+i<libetpan/mhdriver_message.h>
+i<libetpan/mhdriver_cached.h>
+i<libetpan/mhdriver_cached_message.h>
+i<libetpan/mhstorage.h>
+i<libetpan/imapdriver.h>
+i<libetpan/imapdriver_message.h>
+i<libetpan/imapdriver_cached.h>
+i<libetpan/imapdriver_cached_message.h>
+i<libetpan/imapstorage.h>
+i<libetpan/pop3driver.h>
+i<libetpan/pop3driver_message.h>
+i<libetpan/pop3driver_cached.h>
+i<libetpan/pop3driver_cached_message.h>
+i<libetpan/pop3storage.h>
+i<libetpan/hotmailstorage.h>
+i<libetpan/nntpdriver.h>
+i<libetpan/nntpdriver_message.h>
+i<libetpan/nntpdriver_cached.h>
+i<libetpan/nntpdriver_cached_message.h>
+i<libetpan/nntpstorage.h>
+i<libetpan/maildirdriver.h>
+i<libetpan/maildirdriver_message.h>
+i<libetpan/maildirdriver_cached.h>
+i<libetpan/maildirdriver_cached_message.h>
+i<libetpan/maildirstorage.h>
+i<libetpan/dbdriver.h>
+i<libetpan/dbdriver_message.h>
+i<libetpan/dbstorage.h>
+i<libetpan/feeddriver.h>
+i<libetpan/feeddriver_message.h>
+i<libetpan/feedstorage.h>
+i<libetpan/mime_message_driver.h>
+i<libetpan/data_message_driver.h>
+i<libetpan/mailprivacy.h>
+i<libetpan/mailengine.h>
+i<libetpan/mailprivacy_gnupg.h>
+i<libetpan/mailprivacy_smime.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/libetpan_version.h
+c000000004E8EC56C00000000000007B7
+t1317979500
+s1975
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildir.h
+c000000004E8EC56C00000000000009BA
+t1317979500
+s2490
+i<libetpan/maildir_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildir_types.h
+c000000004E8EC56C0000000000000AE1
+t1317979500
+s2785
+i<sys/types.h>
+i<libetpan/libetpan-config.h>
+i<libetpan/chash.h>
+i<libetpan/carray.h>
+i<inttypes.h>
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildirdriver.h
+c000000004E8EC56C000000000000078F
+t1317979500
+s1935
+i<libetpan/maildriver.h>
+i<libetpan/maildirdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildirdriver_cached.h
+c000000004E8EC56C00000000000007AB
+t1317979500
+s1963
+i<libetpan/maildriver.h>
+i<libetpan/maildirdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildirdriver_cached_message.h
+c000000004E8EC56C00000000000007A2
+t1317979500
+s1954
+i<libetpan/maildirdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildirdriver_message.h
+c000000004E8EC56C0000000000000786
+t1317979500
+s1926
+i<libetpan/maildirdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildirdriver_types.h
+c000000004E8EC56C0000000000000B75
+t1317979500
+s2933
+i<libetpan/libetpan-config.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/maildir.h>
+i<libetpan/generic_cache_types.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildirstorage.h
+c000000004E8EC56C0000000000000993
+t1317979500
+s2451
+i<libetpan/maildirdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildriver.h
+c000000004E8EC56D00000000000042CB
+t1317979501
+s17099
+i<libetpan/maildriver_types.h>
+i<libetpan/maildriver_types_helper.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildriver_errors.h
+c000000004E8EC56D0000000000000C6F
+t1317979501
+s3183
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildriver_types.h
+c000000004E8EC56D0000000000006650
+t1317979501
+s26192
+i<inttypes.h>
+i<sys/types.h>
+i<libetpan/mailstream.h>
+i<libetpan/mailimf.h>
+i<libetpan/mailmime.h>
+i<libetpan/carray.h>
+i<libetpan/mailthread_types.h>
+i<libetpan/maildriver_errors.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maildriver_types_helper.h
+c000000004E8EC56D0000000000000C8D
+t1317979501
+s3213
+i<libetpan/maildriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailengine.h
+c000000004E8EC56D00000000000013D7
+t1317979501
+s5079
+i<libetpan/mailmessage.h>
+i<libetpan/mailfolder.h>
+i<libetpan/mailprivacy_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailfolder.h
+c000000004E8EC56D0000000000000B1C
+t1317979501
+s2844
+i"mailstorage_types.h"
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap.h
+c000000004E8EC56D00000000000042D3
+t1317979501
+s17107
+i<libetpan/mailimap_types.h>
+i<libetpan/mailimap_types_helper.h>
+i<libetpan/mailimap_helper.h>
+i<libetpan/mailimap_socket.h>
+i<libetpan/mailimap_ssl.h>
+i<libetpan/acl.h>
+i<libetpan/annotatemore.h>
+i<libetpan/uidplus.h>
+i<libetpan/idle.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_extension.h
+c000000004E8EC56D0000000000000E4B
+t1317979501
+s3659
+i<libetpan/mailimap_types.h>
+i<libetpan/mailimap_extension_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_extension_types.h
+c000000004E8EC56D00000000000007B5
+t1317979501
+s1973
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_helper.h
+c000000004E8EC56D0000000000000935
+t1317979501
+s2357
+i<libetpan/mailimap_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_socket.h
+c000000004E8EC56D00000000000008B7
+t1317979501
+s2231
+i<inttypes.h>
+i<libetpan/mailimap_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_ssl.h
+c000000004E8EC56D000000000000088E
+t1317979501
+s2190
+i<inttypes.h>
+i<libetpan/mailimap_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_types.h
+c000000004E8EC56D0000000000018A7F
+t1317979501
+s100991
+i<libetpan/libetpan-config.h>
+i<libetpan/mailstream.h>
+i<libetpan/clist.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimap_types_helper.h
+c000000004E8EC56D0000000000004929
+t1317979501
+s18729
+i<libetpan/mailimap_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimf.h
+c000000004E8EC56D0000000000002E38
+t1317979501
+s11832
+i<libetpan/mailimf_types.h>
+i<libetpan/mailimf_write_generic.h>
+i<libetpan/mailimf_write_file.h>
+i<libetpan/mailimf_write_mem.h>
+i<libetpan/mailimf_types_helper.h>
+i<inttypes.h>
+i<sys/types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimf_types.h
+c000000004E8EC56D0000000000005337
+t1317979501
+s21303
+i<libetpan/libetpan-config.h>
+i<libetpan/clist.h>
+i<sys/types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimf_types_helper.h
+c000000004E8EC56D0000000000002F62
+t1317979501
+s12130
+i<libetpan/mailimf_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimf_write_file.h
+c000000004E8EC56D0000000000001548
+t1317979501
+s5448
+i<stdio.h>
+i<libetpan/mailimf_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimf_write_generic.h
+c000000004E8EC56D0000000000001305
+t1317979501
+s4869
+i<stdio.h>
+i<libetpan/mailimf_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailimf_write_mem.h
+c000000004E8EC56D0000000000001113
+t1317979501
+s4371
+i<stdio.h>
+i<libetpan/mailimf_types.h>
+i<libetpan/mmapstring.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/maillock.h
+c000000004E8EC56D00000000000007E2
+t1317979501
+s2018
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmbox.h
+c000000004E8EC56D00000000000010D6
+t1317979501
+s4310
+i<libetpan/mailmbox_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmbox_types.h
+c000000004E8EC56D0000000000000F07
+t1317979501
+s3847
+i<sys/types.h>
+i<libetpan/libetpan-config.h>
+i<libetpan/mailimf.h>
+i<libetpan/carray.h>
+i<libetpan/chash.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmessage.h
+c000000004E8EC56D0000000000002B03
+t1317979501
+s11011
+i<libetpan/mailmessage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmessage_types.h
+c000000004E8EC56D0000000000000742
+t1317979501
+s1858
+i<libetpan/maildriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmh.h
+c000000004E8EC56D000000000000117C
+t1317979501
+s4476
+i<sys/types.h>
+i<libetpan/libetpan-config.h>
+i<libetpan/carray.h>
+i<libetpan/chash.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime.h
+c000000004E8EC56D0000000000000E2C
+t1317979501
+s3628
+i<libetpan/mailimf.h>
+i<libetpan/mailmime_types.h>
+i<libetpan/mailmime_types_helper.h>
+i<libetpan/mailmime_content.h>
+i<libetpan/mailmime_decode.h>
+i<libetpan/mailmime_disposition.h>
+i<libetpan/mailmime_write_file.h>
+i<libetpan/mailmime_write_mem.h>
+i<libetpan/mailmime_write_generic.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_content.h
+c000000004E8EC56D0000000000000C62
+t1317979501
+s3170
+i<libetpan/mailmime_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_decode.h
+c000000004E8EC56D00000000000007F3
+t1317979501
+s2035
+i<libetpan/mailmime_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_disposition.h
+c000000004E8EC56D00000000000008C8
+t1317979501
+s2248
+i<libetpan/mailmime_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_types.h
+c000000004E8EC56D0000000000002EE0
+t1317979501
+s12000
+i<libetpan/libetpan-config.h>
+i<inttypes.h>
+i<libetpan/mailimf.h>
+i<libetpan/clist.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_types_helper.h
+c000000004E8EC56D000000000000177C
+t1317979501
+s6012
+i<libetpan/mailmime_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_write_file.h
+c000000004E8EC56D0000000000000E09
+t1317979501
+s3593
+i<libetpan/mailmime_types.h>
+i<stdio.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_write_generic.h
+c000000004E8EC56D0000000000000B7B
+t1317979501
+s2939
+i<libetpan/mailmime_types.h>
+i<stdio.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailmime_write_mem.h
+c000000004E8EC56D0000000000000A9E
+t1317979501
+s2718
+i<libetpan/mailmime_types.h>
+i<libetpan/mmapstring.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailpop3.h
+c000000004E8EC56D0000000000000E35
+t1317979501
+s3637
+i<libetpan/mailpop3_types.h>
+i<libetpan/mailpop3_helper.h>
+i<libetpan/mailpop3_socket.h>
+i<libetpan/mailpop3_ssl.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailpop3_helper.h
+c000000004E8EC56D0000000000000865
+t1317979501
+s2149
+i"mailpop3.h"
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailpop3_socket.h
+c000000004E8EC56D00000000000008B7
+t1317979501
+s2231
+i<inttypes.h>
+i<libetpan/mailpop3_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailpop3_ssl.h
+c000000004E8EC56D000000000000088E
+t1317979501
+s2190
+i<inttypes.h>
+i<libetpan/mailpop3_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailpop3_types.h
+c000000004E8EC56D0000000000000D8E
+t1317979501
+s3470
+i<libetpan/libetpan-config.h>
+i<libetpan/mailstream.h>
+i<libetpan/mmapstring.h>
+i<libetpan/carray.h>
+i<libetpan/clist.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailprivacy.h
+c000000004E8EC56D000000000000123E
+t1317979501
+s4670
+i<libetpan/mailmessage.h>
+i<libetpan/mailprivacy_types.h>
+i<libetpan/mailprivacy_tools.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailprivacy_gnupg.h
+c000000004E8EC56D00000000000008FB
+t1317979501
+s2299
+i<libetpan/mailprivacy_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailprivacy_smime.h
+c000000004E8EC56D0000000000000C77
+t1317979501
+s3191
+i<libetpan/mailprivacy_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailprivacy_tools.h
+c000000004E8EC56D000000000000102C
+t1317979501
+s4140
+i<libetpan/mailmessage.h>
+i<libetpan/mailprivacy_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailprivacy_types.h
+c000000004E8EC56D0000000000000B8D
+t1317979501
+s2957
+i<libetpan/chash.h>
+i<libetpan/carray.h>
+i<libetpan/mailmessage.h>
+i<libetpan/mailmime.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailsem.h
+c000000004E8EC56D000000000000078B
+t1317979501
+s1931
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailsmtp.h
+c000000004E8EC56D0000000000000FB3
+t1317979501
+s4019
+i<libetpan/mailsmtp_types.h>
+i<libetpan/mailsmtp_helper.h>
+i<libetpan/mailsmtp_socket.h>
+i<libetpan/mailsmtp_ssl.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailsmtp_helper.h
+c000000004E8EC56D00000000000009D7
+t1317979501
+s2519
+i"mailsmtp_types.h"
+i"clist.h"
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailsmtp_socket.h
+c000000004E8EC56D00000000000008BD
+t1317979501
+s2237
+i<libetpan/libetpan-config.h>
+i<libetpan/mailsmtp_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailsmtp_ssl.h
+c000000004E8EC56D00000000000008A2
+t1317979501
+s2210
+i<inttypes.h>
+i<libetpan/mailsmtp_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailsmtp_types.h
+c000000004E8EC56D0000000000000FEF
+t1317979501
+s4079
+i<libetpan/mailstream.h>
+i<libetpan/mmapstring.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstorage.h
+c000000004E8EC56D0000000000000CA9
+t1317979501
+s3241
+i<libetpan/maildriver_types.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstorage_types.h
+c000000004E8EC56D0000000000001922
+t1317979501
+s6434
+i<libetpan/maildriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstream.h
+c000000004E8EC56D0000000000000B7C
+t1317979501
+s2940
+i<sys/time.h>
+i<libetpan/mailstream_low.h>
+i<libetpan/mailstream_helper.h>
+i<libetpan/mailstream_socket.h>
+i<libetpan/mailstream_ssl.h>
+i<libetpan/mailstream_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstream_helper.h
+c000000004E8EC56D0000000000000AA6
+t1317979501
+s2726
+i<libetpan/mmapstring.h>
+i<libetpan/mailstream.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstream_low.h
+c000000004E8EC56D0000000000000977
+t1317979501
+s2423
+i<sys/types.h>
+i<libetpan/mailstream_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstream_socket.h
+c000000004E8EC56D00000000000007E8
+t1317979501
+s2024
+i<libetpan/mailstream.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstream_ssl.h
+c000000004E8EC56D0000000000000E8A
+t1317979501
+s3722
+i<libetpan/mailstream.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailstream_types.h
+c000000004E8EC56D0000000000000AEC
+t1317979501
+s2796
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailthread.h
+c000000004E8EC56D0000000000000E8E
+t1317979501
+s3726
+i<libetpan/mailthread_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mailthread_types.h
+c000000004E8EC56D000000000000093E
+t1317979501
+s2366
+i<libetpan/maildriver_types.h>
+i<libetpan/mailmessage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mboxdriver.h
+c000000004E8EC56D0000000000000760
+t1317979501
+s1888
+i<libetpan/mboxdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mboxdriver_cached.h
+c000000004E8EC56D00000000000007A3
+t1317979501
+s1955
+i<libetpan/libetpan-config.h>
+i<libetpan/mboxdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mboxdriver_cached_message.h
+c000000004E8EC56D000000000000078E
+t1317979501
+s1934
+i<libetpan/mailmessage.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mboxdriver_message.h
+c000000004E8EC56D0000000000000777
+t1317979501
+s1911
+i<libetpan/mboxdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mboxdriver_types.h
+c000000004E8EC56D0000000000000C3A
+t1317979501
+s3130
+i<libetpan/maildriver_types.h>
+i<libetpan/mailmbox.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mboxstorage.h
+c000000004E8EC56D000000000000097D
+t1317979501
+s2429
+i<libetpan/mboxdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mhdriver.h
+c000000004E8EC56D0000000000000752
+t1317979501
+s1874
+i<libetpan/maildriver.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mhdriver_cached.h
+c000000004E8EC56D0000000000000772
+t1317979501
+s1906
+i<libetpan/mhdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mhdriver_cached_message.h
+c000000004E8EC56D0000000000000789
+t1317979501
+s1929
+i<libetpan/mhdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mhdriver_message.h
+c000000004E8EC56D000000000000076D
+t1317979501
+s1901
+i<libetpan/mhdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mhdriver_types.h
+c000000004E8EC56D0000000000000B74
+t1317979501
+s2932
+i<libetpan/libetpan-config.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/mailmh.h>
+i<libetpan/clist.h>
+i<libetpan/generic_cache_types.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mhstorage.h
+c000000004E8EC56D0000000000000943
+t1317979501
+s2371
+i<libetpan/mhdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mime_message_driver.h
+c000000004E8EC56D000000000000080D
+t1317979501
+s2061
+i<libetpan/mailmessage.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/mmapstring.h
+c000000004E8EC56D0000000000001014
+t1317979501
+s4116
+i<sys/types.h>
+i<libetpan/libetpan-config.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsfeed.h
+c000000004E8EC56D0000000000000CF8
+t1317979501
+s3320
+i<libetpan/newsfeed_types.h>
+i<libetpan/newsfeed_item.h>
+i<libetpan/newsfeed_item_enclosure.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsfeed_item.h
+c000000004E8EC56D0000000000000D11
+t1317979501
+s3345
+i<libetpan/newsfeed_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsfeed_item_enclosure.h
+c000000004E8EC56D000000000000033C
+t1317979501
+s828
+i<libetpan/newsfeed_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsfeed_types.h
+c000000004E8EC56D0000000000000541
+t1317979501
+s1345
+i<libetpan/carray.h>
+i<sys/types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsnntp.h
+c000000004E8EC56D00000000000015C1
+t1317979501
+s5569
+i<inttypes.h>
+i<sys/types.h>
+i<time.h>
+i<libetpan/clist.h>
+i<libetpan/mailstream.h>
+i<libetpan/newsnntp_socket.h>
+i<libetpan/newsnntp_ssl.h>
+i<libetpan/newsnntp_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsnntp_socket.h
+c000000004E8EC56D00000000000007D8
+t1317979501
+s2008
+i<sys/types.h>
+i<inttypes.h>
+i<libetpan/newsnntp_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsnntp_ssl.h
+c000000004E8EC56D00000000000008A5
+t1317979501
+s2213
+i<sys/types.h>
+i<inttypes.h>
+i<libetpan/newsnntp_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/newsnntp_types.h
+c000000004E8EC56D0000000000000F28
+t1317979501
+s3880
+i<libetpan/libetpan-config.h>
+i<libetpan/clist.h>
+i<libetpan/mailstream.h>
+i<libetpan/mmapstring.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/nntpdriver.h
+c000000004E8EC56D0000000000000760
+t1317979501
+s1888
+i<libetpan/nntpdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/nntpdriver_cached.h
+c000000004E8EC56D000000000000077C
+t1317979501
+s1916
+i<libetpan/nntpdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/nntpdriver_cached_message.h
+c000000004E8EC56D0000000000000794
+t1317979501
+s1940
+i<libetpan/mailmessage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/nntpdriver_message.h
+c000000004E8EC56D0000000000000777
+t1317979501
+s1911
+i<libetpan/nntpdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/nntpdriver_types.h
+c000000004E8EC56D0000000000001009
+t1317979501
+s4105
+i<libetpan/libetpan-config.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/newsnntp.h>
+i<libetpan/clist.h>
+i<libetpan/generic_cache_types.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/nntpstorage.h
+c000000004E8EC56D0000000000000EC9
+t1317979501
+s3785
+i<libetpan/nntpdriver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/pop3driver.h
+c000000004E8EC56D0000000000000760
+t1317979501
+s1888
+i<libetpan/pop3driver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/pop3driver_cached.h
+c000000004E8EC56D000000000000077C
+t1317979501
+s1916
+i<libetpan/pop3driver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/pop3driver_cached_message.h
+c000000004E8EC56D0000000000000793
+t1317979501
+s1939
+i<libetpan/pop3driver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/pop3driver_message.h
+c000000004E8EC56D0000000000000777
+t1317979501
+s1911
+i<libetpan/pop3driver_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/pop3driver_types.h
+c000000004E8EC56D0000000000001520
+t1317979501
+s5408
+i<libetpan/libetpan-config.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/mailpop3.h>
+i<libetpan/maildriver_types.h>
+i<libetpan/chash.h>
+i<libetpan/mailstorage_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/pop3storage.h
+c000000004E8EC56D00000000000011F9
+t1317979501
+s4601
+i<libetpan/pop3driver_types.h>
+i<libetpan/pop3driver.h>
+i<libetpan/pop3driver_cached.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/uidplus.h
+c000000004E8EC56D000000000000057C
+t1317979501
+s1404
+i<libetpan/libetpan-config.h>
+i<libetpan/mailimap_types.h>
+i<libetpan/uidplus_types.h>
+
+N/Sapna/Mail/mailcore/libetpan/build-mac/include/libetpan/uidplus_types.h
+c000000004E8EC56D000000000000048F
+t1317979501
+s1167
+i<inttypes.h>
+i"mailimap_types.h"
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTBareAttachment.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTBareMessage.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTCoreAccount.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTCoreAddress.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTCoreAttachment.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTCoreFolder.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTCoreMessage.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTESMTP.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIME.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIMEFactory.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTMIME_TextPart.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTSMTP.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/CTSMTPConnection.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/JRLog.m
+r0
+
+CBuild AST from /Sapna/Mail/mailcore/Source/MailCoreUtilities.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2158e109bc42b441^8c85e109bc42b441^---0#1#0#--18"Check dependencies36"73488AD6-4409-479F-8511-5C460624CBBF-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareAttachment.o" /Sapna/Mail/mailcore/Source/CTBareAttachment.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.385565
+e339917708.581848
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareAttachment.o
+x/Sapna/Mail/mailcore/Source/CTBareAttachment.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Sapna/Mail/mailcore/Source/CTBareAttachment.m53cb628cbb42b441^bed91e8dbb42b441^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Sapna/Mail/mailcore/Source/CTBareAttachment.m0000000000000000^2027"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareAttachment.o" Source/CTBareAttachment.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTBareAttachment.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareAttachment.o"36"F3E4201D-4A69-4AAE-9BBA-3C954DF55EEB-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareMessage.o" /Sapna/Mail/mailcore/Source/CTBareMessage.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.329864
+e339917708.506817
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareMessage.o
+x/Sapna/Mail/mailcore/Source/CTBareMessage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Sapna/Mail/mailcore/Source/CTBareMessage.m7787548cbb42b441^facf1e8dbb42b441^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/Sapna/Mail/mailcore/Source/CTBareMessage.m0000000000000000^2015"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareMessage.o" Source/CTBareMessage.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTBareMessage.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTBareMessage.o"36"3ABB2C07-026A-47A3-AC24-607630021027-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAccount.o" /Sapna/Mail/mailcore/Source/CTCoreAccount.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.137996
+e339917708.383259
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAccount.o
+x/Sapna/Mail/mailcore/Source/CTCoreAccount.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Sapna/Mail/mailcore/Source/CTCoreAccount.m486c238cbb42b441^232d1d8dbb42b441^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreAccount.m0000000000000000^2015"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAccount.o" Source/CTCoreAccount.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTCoreAccount.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAccount.o"36"03039125-563D-4016-B7DE-B9F5B0F5A0AF-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAddress.o" /Sapna/Mail/mailcore/Source/CTCoreAddress.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.138286
+e339917708.328667
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAddress.o
+x/Sapna/Mail/mailcore/Source/CTCoreAddress.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Sapna/Mail/mailcore/Source/CTCoreAddress.mb779238cbb42b441^cb49548cbb42b441^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreAddress.m0000000000000000^2015"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAddress.o" Source/CTCoreAddress.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTCoreAddress.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAddress.o"36"105BF6BB-6788-4115-9512-F3F019DAE2F5-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAttachment.o" /Sapna/Mail/mailcore/Source/CTCoreAttachment.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.930450
+e339917708.136729
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAttachment.o
+x/Sapna/Mail/mailcore/Source/CTCoreAttachment.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Sapna/Mail/mailcore/Source/CTCoreAttachment.mbb47ee8bbb42b441^5a80228cbb42b441^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Sapna/Mail/mailcore/Source/CTCoreAttachment.m0000000000000000^2027"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAttachment.o" Source/CTCoreAttachment.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTCoreAttachment.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreAttachment.o"36"2EE350EC-E12A-4216-A1E6-1029F73996FB-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreFolder.o" /Sapna/Mail/mailcore/Source/CTCoreFolder.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.138519
+e339917708.424220
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreFolder.o
+x/Sapna/Mail/mailcore/Source/CTCoreFolder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Sapna/Mail/mailcore/Source/CTCoreFolder.mac8f238cbb42b441^47381d8dbb42b441^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Sapna/Mail/mailcore/Source/CTCoreFolder.m0000000000000000^2011"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreFolder.o" Source/CTCoreFolder.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTCoreFolder.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreFolder.o"36"4C4C32C0-73E2-4858-8559-A82455CB43E6-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreMessage.o" /Sapna/Mail/mailcore/Source/CTCoreMessage.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.186164
+e339917708.491487
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreMessage.o
+x/Sapna/Mail/mailcore/Source/CTCoreMessage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: incomplete implementation of class 'CTCoreMessage'
+o/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-messageSize' not found
+o/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-sentDateLocalTimeZone' not found
+o/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-sentDateGMT' not found
+o/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-senderDate' not found
+o/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-senderTimeZone' not found
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Sapna/Mail/mailcore/Source/CTCoreMessage.m4dc02f8cbb42b441^22c31e8dbb42b441^-646"/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: incomplete implementation of class 'CTCoreMessage'/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-messageSize' not found/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-sentDateLocalTimeZone' not found/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-sentDateGMT' not found/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-senderDate' not found/Sapna/Mail/mailcore/Source/CTCoreMessage.m:617: warning: method definition for '-senderTimeZone' not found6(21%IDEActivityLogMessage2@50"Incomplete implementation of class 'CTCoreMessage'-339917708#0#109#-1#-23%DVTTextDocumentLocation3@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^616#18446744073709551615#616#18446744073709551615#18446744073709551615#0#38"Incomplete implementation of class '*'--2@46"Method definition for '-messageSize' not found-339917708#109#105#-1#-3@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^616#18446744073709551615#616#18446744073709551615#18446744073709551615#0#35"Method definition for '*' not found--2@56"Method definition for '-sentDateLocalTimeZone' not found-339917708#214#115#-1#-3@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^616#18446744073709551615#616#18446744073709551615#18446744073709551615#0#35"Method definition for '*' not found--2@46"Method definition for '-sentDateGMT' not found-339917708#329#105#-1#-3@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^616#18446744073709551615#616#18446744073709551615#18446744073709551615#0#35"Method definition for '*' not found--2@45"Method definition for '-senderDate' not found-339917708#434#104#-1#-3@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^616#18446744073709551615#616#18446744073709551615#18446744073709551615#0#35"Method definition for '*' not found--2@49"Method definition for '-senderTimeZone' not found-339917708#538#108#-1#-3@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^616#18446744073709551615#616#18446744073709551615#18446744073709551615#0#35"Method definition for '*' not found--0#0#0#-19%DVTDocumentLocation4@59"file://localhost/Sapna/Mail/mailcore/Source/CTCoreMessage.m0000000000000000^2015"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreMessage.o" Source/CTCoreMessage.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTCoreMessage.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTCoreMessage.o"36"DDEB9F51-77EA-44E9-9825-9BDF5C7CE804-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTESMTP.o" /Sapna/Mail/mailcore/Source/CTESMTP.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.041986
+e339917707.721982
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTESMTP.o
+x/Sapna/Mail/mailcore/Source/CTESMTP.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Sapna/Mail/mailcore/Source/CTESMTP.m52d30a8bbb42b441^01e0b88bbb42b441^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Sapna/Mail/mailcore/Source/CTESMTP.m0000000000000000^1991"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTESMTP.o" Source/CTESMTP.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTESMTP.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTESMTP.o"36"B079D6D8-D70D-4426-922B-980CE31D5DF4-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME.o" /Sapna/Mail/mailcore/Source/CTMIME.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.915679
+e339917708.137634
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME.o
+x/Sapna/Mail/mailcore/Source/CTMIME.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Sapna/Mail/mailcore/Source/CTMIME.mc782ea8bbb42b441^eb3b238cbb42b441^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Sapna/Mail/mailcore/Source/CTMIME.m0000000000000000^1987"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME.o" Source/CTMIME.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIME.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME.o"36"D1ED8411-DBF5-4556-BCAE-A73048ED1EF6-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIMEFactory.o" /Sapna/Mail/mailcore/Source/CTMIMEFactory.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.710323
+e339917707.921847
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIMEFactory.o
+x/Sapna/Mail/mailcore/Source/CTMIMEFactory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Sapna/Mail/mailcore/Source/CTMIMEFactory.m55fab58bbb42b441^8105ec8bbb42b441^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/Sapna/Mail/mailcore/Source/CTMIMEFactory.m0000000000000000^2015"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIMEFactory.o" Source/CTMIMEFactory.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIMEFactory.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIMEFactory.o"36"BD466859-EF51-49A0-9E67-6BAA919EB723-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_Enumerator.o" /Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.923137
+e339917708.184922
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_Enumerator.o
+x/Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Sapna/Mail/mailcore/Source/CTMIME_Enumerator.me76dec8bbb42b441^6c5c2f8cbb42b441^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m0000000000000000^2031"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_Enumerator.o" Source/CTMIME_Enumerator.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIME_Enumerator.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_Enumerator.o"36"754C125D-40CD-46A0-9C72-7036EFAF9199-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MessagePart.o" /Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.720259
+e339917707.889606
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MessagePart.o
+x/Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Sapna/Mail/mailcore/Source/CTMIME_MessagePart.mf67db88bbb42b441^c5c7e38bbb42b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m0000000000000000^2035"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MessagePart.o" Source/CTMIME_MessagePart.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIME_MessagePart.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MessagePart.o"36"7FF1318B-2B10-4109-9FE9-99F2601FCDA2-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MultiPart.o" /Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.723174
+e339917707.914317
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MultiPart.o
+x/Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m2d3eb98bbb42b441^4511ea8bbb42b441^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m0000000000000000^2027"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MultiPart.o" Source/CTMIME_MultiPart.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIME_MultiPart.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_MultiPart.o"36"A6E56D14-7EE9-4C32-8B85-5A48E67888E6-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_SinglePart.o" /Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.723176
+e339917707.929185
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_SinglePart.o
+x/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m: In function '-[CTMIME_SinglePart buildMIMEStruct]':
+o/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m:133: warning: unused variable 'disposition'
+o/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m:128: warning: unused variable 'encoding'
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m3e3eb98bbb42b441^60e4ed8bbb42b441^-282"/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m: In function '-[CTMIME_SinglePart buildMIMEStruct]':/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m:133: warning: unused variable 'disposition'/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m:128: warning: unused variable 'encoding'2(21%IDEActivityLogMessage2@29"Unused variable 'disposition'-339917707#101#92#-1#-23%DVTTextDocumentLocation3@63"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m0000000000000000^132#18446744073709551615#132#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@26"Unused variable 'encoding'-339917707#193#89#-1#-3@63"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m0000000000000000^127#18446744073709551615#127#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation4@63"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m0000000000000000^2031"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_SinglePart.o" Source/CTMIME_SinglePart.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIME_SinglePart.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_SinglePart.o"36"4B41B2FD-9D54-408C-92F7-4795C1AFD789-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_TextPart.o" /Sapna/Mail/mailcore/Source/CTMIME_TextPart.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.890861
+e339917708.136915
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_TextPart.o
+x/Sapna/Mail/mailcore/Source/CTMIME_TextPart.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Sapna/Mail/mailcore/Source/CTMIME_TextPart.mb727e48bbb42b441^3c16238cbb42b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Sapna/Mail/mailcore/Source/CTMIME_TextPart.m0000000000000000^2023"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_TextPart.o" Source/CTMIME_TextPart.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTMIME_TextPart.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTMIME_TextPart.o"36"9C3F4998-205E-4346-A760-36A6354A126A-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTP.o" /Sapna/Mail/mailcore/Source/CTSMTP.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.041621
+e339917707.721920
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTP.o
+x/Sapna/Mail/mailcore/Source/CTSMTP.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Sapna/Mail/mailcore/Source/CTSMTP.m94c00a8bbb42b441^6edab88bbb42b441^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Sapna/Mail/mailcore/Source/CTSMTP.m0000000000000000^1987"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTP.o" Source/CTSMTP.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTSMTP.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTP.o"36"223C2542-7062-40F3-A989-A6BFE7C641AB-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPAsyncConnection.o" /Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.492778
+e339917708.691411
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPAsyncConnection.o
+x/Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m863c7e8cbb42b441^f5f31e8dbb42b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m0000000000000000^2047"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPAsyncConnection.o" Source/CTSMTPAsyncConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTSMTPAsyncConnection.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPAsyncConnection.o"36"C324642C-4962-4377-86AC-64D7359442A6-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPConnection.o" /Sapna/Mail/mailcore/Source/CTSMTPConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.041513
+e339917707.718940
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPConnection.o
+x/Sapna/Mail/mailcore/Source/CTSMTPConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Sapna/Mail/mailcore/Source/CTSMTPConnection.md8b80a8bbb42b441^670fb88bbb42b441^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Sapna/Mail/mailcore/Source/CTSMTPConnection.m0000000000000000^2027"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPConnection.o" Source/CTSMTPConnection.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/CTSMTPConnection.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/CTSMTPConnection.o"36"B07F62AA-BDF9-462A-B664-CE7432335C42-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/JRLog.o" /Sapna/Mail/mailcore/Source/JRLog.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917707.041453
+e339917707.708932
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/JRLog.o
+x/Sapna/Mail/mailcore/Source/JRLog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Sapna/Mail/mailcore/Source/JRLog.m74b40a8bbb42b441^c783b58bbb42b441^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Sapna/Mail/mailcore/Source/JRLog.m0000000000000000^1983"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/JRLog.o" Source/JRLog.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/JRLog.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/JRLog.o"36"FDF25041-8009-4D43-AF03-104B719EB5B3-
+
+CCompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/MailCoreUtilities.o" /Sapna/Mail/mailcore/Source/MailCoreUtilities.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339917708.425529
+e339917708.610059
+r1
+xCompileC
+x../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/MailCoreUtilities.o
+x/Sapna/Mail/mailcore/Source/MailCoreUtilities.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Sapna/Mail/mailcore/Source/MailCoreUtilities.m85076d8cbb42b441^37dd1e8dbb42b441^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Sapna/Mail/mailcore/Source/MailCoreUtilities.m0000000000000000^2031"CompileC "../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/MailCoreUtilities.o" Source/MailCoreUtilities.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Sapna/Mail/mailcore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-generated-files.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-own-target-headers.hmap" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-all-target-headers.hmap" -iquote "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/mailcore-project-headers.hmap" -I/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/include -Ilibetpan/build-mac/include -Ilibetpan/build-mac/include/libetpan -Ilibetpan/build-mac/include/openssl -Ilibetpan/build-mac/include/sasl "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources/i386" "-I/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/DerivedSources" -F/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -c /Sapna/Mail/mailcore/Source/MailCoreUtilities.m -o "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/MailCoreUtilities.o"36"7C2A9B9D-98AE-4FFC-9517-0A7CF03D3EC5-
+
+CLibtool /Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/libmailcore.a normal i386
+s339917709.074892
+e339917709.641342
+r1
+xLibtool
+x/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/libmailcore.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Sapna/Mail/mailcore/libetpan/build-mac/build/Debug-iphonesimulator/libetpan-iphone.a(mailimap_print.o) has no symbols
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Libtool ../../build/Debug-iphonesimulator/libmailcore.a normal i386c53c138dbb42b441^d47fa68dbb42b441^---0#0#0#--825"Libtool ../../build/Debug-iphonesimulator/libmailcore.a normal i386    cd /Sapna/Mail/mailcore    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Sapna/Mail/mailcore/../../build/Debug-iphonesimulator -filelist "/Sapna/Mail/mailcore/../../build/MailCore.build/Debug-iphonesimulator/MailCore iPhone.build/Objects-normal/i386/mailcore.LinkFileList" /Sapna/Mail/mailcore/libetpan/build-mac/build/Debug-iphonesimulator/libetpan-iphone.a -o /Sapna/Mail/mailcore/../../build/Debug-iphonesimulator/libmailcore.a36"B107F5AC-2CB3-4C0C-8133-C4255CC4EA92-
+
